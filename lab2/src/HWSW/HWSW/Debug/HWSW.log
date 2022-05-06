@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HWSW.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  HWSW.vcxproj -> C:\Users\Mirax\source\repos\HWSW\Debug\Lab2.exe
